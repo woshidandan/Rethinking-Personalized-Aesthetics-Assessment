@@ -1,0 +1,10 @@
+# ninja log v5
+1	11806	1745567357544413471	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/ball_query.o	578f135c350011d7
+4	12242	1745567357984414560	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/sampling.o	8ba0438156972d58
+2	12283	1745567358020414649	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/interpolate.o	408f0f7ce5891c0
+1	12640	1745567358376415530	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/group_points.o	53b88fdc582373e3
+4	21375	1745567367116437170	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/sampling_gpu.o	893dd76ae7a2f8d0
+2	21403	1745567367148437249	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/group_points_gpu.o	8efecd6dad7ed75e
+1	21771	1745567367516438160	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/ball_query_gpu.o	1799171fcdf7a92b
+3	22055	1745567367800438863	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/interpolate_gpu.o	48a84317e3fc7887
+3	25617	1745567371340447628	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-310/src/pointnet2_api.o	c32e7027937c6d3b

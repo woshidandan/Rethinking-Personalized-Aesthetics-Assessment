@@ -1,0 +1,16 @@
+# ninja log v5
+4	14483	1745480842807607201	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/sampling/sampling_cuda.o	f2fa088718d8460b
+2	14861	1745480843187607927	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/grouping/grouping_cuda.o	4fd620e677114d42
+3	14895	1745480843223607995	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/interpolation/interpolation_cuda.o	3f2c6850abf96f50
+3	15113	1745480843443608415	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/knnquery/knnquery_cuda.o	7b01b72470b6f6f9
+5	15200	1745480843523608568	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/subtraction/subtraction_cuda.o	fa5a5a888f881883
+1	15427	1745480843751609003	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/aggregation/aggregation_cuda.o	3533878b05431f03
+1	15962	1745480844283610019	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/ballquery/ballquery_cuda.o	bd0c492969ce4aa5
+5	26652	1745480854987630483	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/subtraction/subtraction_cuda_kernel.o	a3570bc3c2fb9da7
+5	26901	1745480855227630943	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/sampling/sampling_cuda_kernel.o	1e22f0c759b84d1b
+1	27673	1745480856003632428	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/aggregation/aggregation_cuda_kernel.o	8a38e95f0fb3d3e
+4	28028	1745480856359633109	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/knnquery/knnquery_cuda_kernel.o	b31374a586be464d
+2	28094	1745480856419633224	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/ballquery/ballquery_cuda_kernel.o	8831cc11df5c86c4
+2	28697	1745480857027634388	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/grouping/grouping_cuda_kernel.o	fc9220835c9a3e28
+3	29121	1745480857455635208	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/interpolation/interpolation_cuda_kernel.o	cb28c8a9dc1c68b9
+4	29477	1745480857787635843	/home/zhb/code/PAA/code/models_/pointmlp/openpoints/cpp/pointops/build/temp.linux-x86_64-cpython-310/src/pointops_api.o	e51c88b924ed6705
