@@ -68,6 +68,6 @@ RuntimeError: Subtraction, the `-` operator, with a bool tensor is not supported
 * ### **PhysiqueFrame 权重文件**
 1. 从 [Baidu Netdisk](https://pan.baidu.com/s/1OOt2X30qe93HmW8XJbPbaQ?pwd=n124) 下载PhysiqueFrame 权重文件。
 
-由于在项目中使用的原因，PENet无法开源。我们在数据集中提供了PENet生成的偏好特征（preference tensor）。
+由于在企业合作项目中使用的原因，PENet无法开源。我们在数据集中提供了PENet生成的偏好特征（preference tensor）。
 
 
