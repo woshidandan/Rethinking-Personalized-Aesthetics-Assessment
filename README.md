@@ -54,6 +54,8 @@ download smplx.npz from [Baidu Netdisk](https://pan.baidu.com/s/1GMX6j_B4l36Zfg9
 
 download Swinv2 checkpoints from [Baidu Netdisk](https://pan.baidu.com/s/10KRxE95g9WnoitJ-hoO38A?pwd=6zd5) to `./code/models_/pam/pretrained`
 
+All resources can also download from [OneDrive](https://bupteducn-my.sharepoint.com/:f:/g/personal/hs19951021_bupt_edu_cn/EugRql7EAD1Fr6cfo0_0X-QBPILI1QAAPYzPvxKc8GlbkQ?e=TG3C0x)
+
 If you encounter the following error message:
 ```
 RuntimeError: Subtraction, the `-` operator, with a bool tensor is not supported. If you are trying to invert a mask, use the `~` or `logical_not()` operator instead.
