@@ -50,6 +50,8 @@ bash script.sh
 
 从[Baidu Netdisk](https://pan.baidu.com/s/10KRxE95g9WnoitJ-hoO38A?pwd=6zd5) 下载 Swinv2 checkpoints，并将其权重放于 `./code/models_/pam/pretrained`。
 
+所有资源也可以从[OneDrive](https://bupteducn-my.sharepoint.com/:f:/g/personal/hs19951021_bupt_edu_cn/EugRql7EAD1Fr6cfo0_0X-QBPILI1QAAPYzPvxKc8GlbkQ?e=TG3C0x)下载
+
 如果遇到以下错误消息：
 ```
 RuntimeError: Subtraction, the `-` operator, with a bool tensor is not supported. If you are trying to invert a mask, use the `~` or `logical_not()` operator instead.
