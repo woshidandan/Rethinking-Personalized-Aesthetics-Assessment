@@ -79,5 +79,11 @@ Unfortunately, PENet cannot be open-sourced due to its enterprise use. However, 
 
 ## If you find our work is useful, please cite our paper:
 ```
-
+@inproceedings{zhong2025rethinking,
+  title={Rethinking Personalized Aesthetics Assessment: Employing Physique Aesthetics Assessment as An Exemplification},
+  author={Zhong, Haobin and He, Shuai and Ming, Anlong and Ma, Huadong},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={2935--2944},
+  year={2025}
+}
 ```
