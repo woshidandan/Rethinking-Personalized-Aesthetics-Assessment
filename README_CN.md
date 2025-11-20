@@ -40,8 +40,8 @@ Beijing University of Posts and Telecommunications
 ```
 conda create -n physiqueAA python=3.10.14
 conda activate physiqueAA
-pip install -r requirements.txt
 cd ./code
+pip install -r requirements.txt
 bash script.sh
 ```
 从[Baidu Netdisk](https://pan.baidu.com/s/1vno-V5VoozFhLxrfkjLHqg?pwd=jx37) 下载 SMPLer_X checkpoints，并将其权重放于 `./code/SMPLer_X/pretrained_models`。
