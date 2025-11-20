@@ -44,8 +44,8 @@ The goal is to predict the PhysiqueAA Scores: appearance, health, and posture.
 ```
 conda create -n physiqueAA python=3.10.14
 conda activate physiqueAA
-pip install -r requirements.txt
 cd ./code
+pip install -r requirements.txt
 bash script.sh
 ```
 download SMPLer_X checkpoints from [Baidu Netdisk](https://pan.baidu.com/s/1vno-V5VoozFhLxrfkjLHqg?pwd=jx37) to `./code/SMPLer_X/pretrained_models`
@@ -69,7 +69,7 @@ Example: Modify mask_c2 = `(1 - mask_d2) * mask_d0_nd1` to `mask_c2 = (~mask_d2)
 2. Use `train.py` to train the network.
 
 * ### **Inference**
-1. Use `inference.py` to train the network.
+1. Use `inference.py` to inference the network.
 
 * ### **PhysiqueFrame Checkpoint Files**
 1. Download the PhysiqueFrame checkpoint files from [Baidu Netdisk](https://pan.baidu.com/s/1OOt2X30qe93HmW8XJbPbaQ?pwd=n124).
