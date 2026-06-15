@@ -18,7 +18,6 @@ Beijing University of Posts and Telecommunications
 
 -----------------------------------------
 
-
 [[国内的小伙伴可以看这]](https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment/blob/main/README_CN.md)
 This repo contains the official implementation and the new dataset PhysiqueAA50K of the **CVPR 2025** paper.
 
